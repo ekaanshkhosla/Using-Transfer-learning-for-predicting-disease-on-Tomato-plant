@@ -5,3 +5,5 @@ Misdiagnosis of the many diseases impacting agricultural crops can lead to misus
 #### In this, we train our model on tomato plant leaves using transfer learning, and by examining the leaves, we predict from which disease the plant is suffering from. 
 
 Full access to data: https://www.kaggle.com/noulam/tomato
+
+Kaggle notebook: https://www.kaggle.com/ekaansh/tomato-disease-prediction
